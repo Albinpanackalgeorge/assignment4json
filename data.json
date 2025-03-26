@@ -1,39 +1,45 @@
 [
     {
-      "name": "Item 1",
-      "description": "A description of Item 1.",
-      "price": "$10",
-      "image": "https://via.placeholder.com/150"
+      "title": "Goodfellas",
+      "year": 1990,
+      "genre": "Crime, Drama",
+      "description": "The rise and fall of Henry Hill, a mobster, in the New York mafia.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg"
     },
     {
-      "name": "Item 2",
-      "description": "A description of Item 2.",
-      "price": "$20",
-      "image": "https://via.placeholder.com/150"
+      "title": "Taxi Driver",
+      "year": 1976,
+      "genre": "Drama, Thriller",
+      "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/Taxi_Driver_%281976_film%29.jpg"
     },
     {
-      "name": "Item 3",
-      "description": "A description of Item 3.",
-      "price": "$30",
-      "image": "https://via.placeholder.com/150"
+      "title": "The Departed",
+      "year": 2006,
+      "genre": "Crime, Thriller",
+      "description": "An undercover cop and a mole in the police force try to identify each other.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg"
     },
     {
-      "name": "Item 4",
-      "description": "A description of Item 4.",
-      "price": "$40",
-      "image": "https://via.placeholder.com/150"
+      "title": "Raging Bull",
+      "year": 1980,
+      "genre": "Biography, Drama, Sport",
+      "description": "The life of boxer Jake LaMotta, whose temper leads to self-destruction.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Raging_Bull_poster.jpg"
     },
     {
-      "name": "Item 5",
-      "description": "A description of Item 5.",
-      "price": "$50",
-      "image": "https://via.placeholder.com/150"
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "genre": "Biography, Crime, Drama",
+      "description": "The story of stockbroker Jordan Belfort and his corruption on Wall Street.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/WallStreet2013poster.jpg"
     },
     {
-      "name": "Item 6",
-      "description": "A description of Item 6.",
-      "price": "$60",
-      "image": "https://via.placeholder.com/150"
+      "title": "Shutter Island",
+      "year": 2010,
+      "genre": "Mystery, Thriller",
+      "description": "A U.S. Marshal investigates a psychiatric facility on a remote island.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg"
     }
   ]
   
