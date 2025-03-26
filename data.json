@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Tesla Model S",
+      "type": "Electric",
+      "price": "$85,000",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Ford Mustang",
+      "type": "Gasoline",
+      "price": "$60,000",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "BMW i8",
+      "type": "Hybrid",
+      "price": "$140,000",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Porsche 911",
+      "type": "Sports",
+      "price": "$120,000",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Audi e-tron",
+      "type": "Electric",
+      "price": "$70,000",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Chevrolet Camaro",
+      "type": "Gasoline",
+      "price": "$45,000",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
